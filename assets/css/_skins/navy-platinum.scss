@@ -1,0 +1,58 @@
+/* Deep Navy Platinum Skin */
+
+$background-color: #0A192F !default;
+$text-color: #CCD6F6 !default;
+$muted-text-color: #8892B0 !default;
+$primary-color: #E5E7EB !default;
+$border-color: #1E2A47 !default;
+
+$body-background-color: #0A192F !default;
+$code-background-color: #112240 !default;
+$code-background-color-dark: #0f1a30 !default;
+
+$link-color: #E5E7EB !default;
+$link-color-hover: #3B82F6 !default;
+
+$masthead-background-color: #0A192F !default;
+$masthead-link-color: #CCD6F6 !default;
+$masthead-link-color-hover: #3B82F6 !default;
+
+$navicon-link-color-hover: #3B82F6 !default;
+
+$footer-background-color: #0A192F !default;
+$footer-text-color: #8892B0 !default;
+$footer-link-color: #E5E7EB !default;
+
+$btn-primary-color: #3B82F6 !default;
+$btn-primary-color-hover: #2563eb !default;
+
+$sidebar-background-color: #112240 !default;
+
+$page-background-color: #0A192F !default;
+
+/* Subtle premium polish */
+.masthead {
+  border-bottom: 1px solid #1E2A47;
+}
+
+.page__footer {
+  border-top: 1px solid #1E2A47;
+}
+
+.page__content a {
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+.page__content a:hover {
+  color: #3B82F6;
+}
+
+/* Card-like feel for content */
+.page__content {
+  background: transparent;
+}
+
+.sidebar {
+  border-right: 1px solid #1E2A47;
+}
